@@ -1,0 +1,12 @@
+C:\Users\Amrit\Documents\GitHub\alarmy\Alarmy\bin\Debug\Alarmy.exe.config
+C:\Users\Amrit\Documents\GitHub\alarmy\Alarmy\bin\Debug\Alarmy.exe
+C:\Users\Amrit\Documents\GitHub\alarmy\Alarmy\bin\Debug\Alarmy.pdb
+C:\Users\Amrit\Documents\GitHub\alarmy\Alarmy\bin\Debug\Alarmy.xml
+C:\Users\Amrit\Documents\GitHub\alarmy\Alarmy\obj\Debug\Alarmy.vbprojResolveAssemblyReference.cache
+C:\Users\Amrit\Documents\GitHub\alarmy\Alarmy\obj\Debug\Alarmy.Form1.resources
+C:\Users\Amrit\Documents\GitHub\alarmy\Alarmy\obj\Debug\Alarmy.Resources.resources
+C:\Users\Amrit\Documents\GitHub\alarmy\Alarmy\obj\Debug\Alarmy.vbproj.GenerateResource.Cache
+C:\Users\Amrit\Documents\GitHub\alarmy\Alarmy\obj\Debug\Alarmy.vbproj.CoreCompileInputs.cache
+C:\Users\Amrit\Documents\GitHub\alarmy\Alarmy\obj\Debug\Alarmy.exe
+C:\Users\Amrit\Documents\GitHub\alarmy\Alarmy\obj\Debug\Alarmy.xml
+C:\Users\Amrit\Documents\GitHub\alarmy\Alarmy\obj\Debug\Alarmy.pdb
