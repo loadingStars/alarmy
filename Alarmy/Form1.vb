@@ -2,9 +2,14 @@
 'a very simple alarm clock
 'for your desktop :)
 
+Imports System.Drawing.Text
+
+
 Public Class Form1
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        loadFont()
         Timer1.Enabled = True
+
 
 
 
@@ -16,6 +21,12 @@ Public Class Form1
 
 
         lblCurrentTime.Text = currentTime
+
+
+    End Sub
+
+    Private Sub loadFont()
+        Dim digitalFont As New PrivateFontCollection
 
 
     End Sub
